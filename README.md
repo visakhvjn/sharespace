@@ -15,3 +15,4 @@ Since it's a new project, I would love if you could help me with -
 7. Allow to create private and public spaces.
 8. List down all the code spaces shared by a user.
 9. Allow to remove an existing space.
+10. Make into a plugin that allows to integrate into apps that need a realtime chat engine.
